@@ -1,0 +1,5 @@
+dataset: CHASEDB1
+train_images: 22
+train_masks: 22
+test_images: 6
+test_masks: 6
