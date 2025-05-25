@@ -1,5 +1,5 @@
 dataset: DRIVE
-train_images: 20
-train_masks: 20
-test_images: 20
-test_masks: 0
+train_images: 16
+train_masks: 16
+test_images: 4
+test_masks: 4
