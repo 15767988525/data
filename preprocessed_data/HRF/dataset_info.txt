@@ -1,5 +1,5 @@
 dataset: HRF
-train_images: 120
-train_masks: 120
-test_images: 30
-test_masks: 30
+train_images: 27
+train_masks: 27
+test_images: 18
+test_masks: 18
